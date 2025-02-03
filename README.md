@@ -38,9 +38,6 @@ Simple_JS_Calculator/
 │── app.js         # JavaScript logic for the calculator
 ```
 
-## Screenshot
-![Calculator Preview](https://via.placeholder.com/400)
-
 ## Improvements & Future Updates
 - Enhance UI with animations and better styling.
 - Implement keyboard support.
