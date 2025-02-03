@@ -1,0 +1,38 @@
+ button{
+    border-radius:50px;
+    font-family: Arial, sans-serif;
+    width: 70px;
+    height: 70px;
+    font-size: 50px;
+    font-weight: 300;
+    background-color: gray;
+    color: white;
+    border: black;
+ }
+ button:hover{
+    background-color: rgba(170, 169, 169, 0.753);
+ }
+  #operator{
+    background-color: rgba(255, 166, 0, 0.959);
+    color: white;
+}
+#operator:hover{
+    background-color: rgba(255, 166, 0, 0.596);
+}
+
+#container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap : 10px;
+    max-width: fit-content;
+    background-color: rgb(58, 56, 56);
+    padding: 10px;
+}
+input{
+    background-color: rgb(70, 68, 68);
+    height: 60px;
+    width: 322px;
+    font-size: 40px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
